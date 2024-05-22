@@ -11,8 +11,8 @@ Este é um simples sistema de gerenciamento de conta bancária desenvolvido em P
 
 ## Como Usar
 
-1. Clone o repositório: `git clone https://github.com/seu_usuario/nome_do_repositorio.git`
-2. Navegue até o diretório do projeto: `cd nome_do_repositorio`
+1. Clone o repositório: `git clone https://github.com/lopeshyago/bank-account.git`
+2. Navegue até o diretório do projeto: `cd bank-account`
 3. Execute o arquivo Python `bank_account.py`.
 4. Siga as instruções apresentadas no terminal para interagir com o programa.
 
