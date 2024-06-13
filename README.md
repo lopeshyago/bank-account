@@ -8,7 +8,10 @@ Este é um simples sistema de gerenciamento de conta bancária desenvolvido em P
 - **Sacar**: Os usuários podem realizar saques, desde que o saldo disponível e os limites permitam.
 - **Extrato**: Os usuários podem visualizar um extrato de suas transações, incluindo depósitos e saques.
 - **Limites**: O programa possui limites de saldo, saque diário e número máximo de saques por dia.
-
+- **Nova Conta**: Criação da conta bancária vinculada ao usuário.
+- **Listar Contas**: Listagem das contas criadas vínculadas ao usuário.
+- **Novo Usuário**: Criação de usuário.
+  
 ## Como Usar
 
 1. Clone o repositório: `git clone https://github.com/lopeshyago/bank-account.git`
